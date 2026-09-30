@@ -4,6 +4,8 @@
 
 **A living miniature city in Unity 6: residents, traffic, weather, a river and a day/night cycle, all in one deterministic simulation.**
 
+<a href="https://increator.itch.io/small-town"><img src="https://img.shields.io/badge/%E2%96%B6_Play_in_browser-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play in browser on itch.io"></a>
+
 ![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![URP](https://img.shields.io/badge/URP-3D-444?style=flat-square)
