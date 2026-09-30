@@ -1,0 +1,25 @@
+{
+    "name": "SmallTown.Tests.EditMode",
+    "rootNamespace": "SmallTown.Tests",
+    "references": [
+        "SmallTown.Runtime.Simulation",
+        "SmallTown.Runtime.View",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

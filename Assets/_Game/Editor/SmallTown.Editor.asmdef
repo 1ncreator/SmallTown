@@ -1,0 +1,23 @@
+{
+    "name": "SmallTown.Editor",
+    "rootNamespace": "SmallTown.Editor",
+    "references": [
+        "SmallTown.Runtime.Simulation",
+        "SmallTown.Runtime.View",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

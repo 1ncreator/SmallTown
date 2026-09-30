@@ -1,0 +1,14 @@
+{
+    "name": "SmallTown.Runtime.Simulation",
+    "rootNamespace": "SmallTown",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

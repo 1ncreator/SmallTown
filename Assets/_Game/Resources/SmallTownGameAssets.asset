@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e29338a118ec94b81b2fbf6c709dea, type: 3}
+  m_Name: SmallTownGameAssets
+  m_EditorClassIdentifier: SmallTown.Runtime.View::SmallTown.Core.GameAssets
+  city: {fileID: 2100000, guid: d9b895a8c7a8ee640bda3045c6ed5530, type: 2}
+  grass: {fileID: 2100000, guid: 38440cba2f2aed64dbe95c905972eba2, type: 2}
+  foliage: {fileID: 2100000, guid: 2b345d570ebbcff4194692ac2f544169, type: 2}
+  conifer: {fileID: 2100000, guid: acfc1242fc9c3a046b2a485fc8389c78, type: 2}
+  agents: {fileID: 2100000, guid: 9c8f326935cc1c34980e9adbeca496a8, type: 2}
+  water: {fileID: 2100000, guid: b4053666d1127944592177ea70f78ba0, type: 2}
+  glow: {fileID: 2100000, guid: f7ba6abbb33621649b9bf222fb13a7f6, type: 2}
+  glowAlways: {fileID: 2100000, guid: f96436b8990d470409a9160005db449a, type: 2}
+  particleAlpha: {fileID: 2100000, guid: e78217b278be6134d8c3b2af9183b0a8, type: 2}
+  particleAdditive: {fileID: 2100000, guid: 4b5df9af12c6d49439dbde54b994a060, type: 2}
+  settings: {fileID: 11400000, guid: 39a442098fb61424eb1db82132fc7aa4, type: 2}
+  grammar: {fileID: 4900000, guid: b088360a4fca1a04192f460fca6af0a9, type: 3}
+  postProfile: {fileID: 11400000, guid: 0b02eb1f4cea5384cb88debbdcdeb965, type: 2}
